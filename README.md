@@ -63,8 +63,4 @@ The PID parameters are chosen manually by several attempts, the details are show
 
 ### Final result
 
-Here's the result with final PID coefficients.
-
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="./video/output_project_video.mp4" type="video/mp4">
-</video>
+Here's the [result](./video/output_project_video.mp4) with final PID coefficients.
